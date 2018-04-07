@@ -1,0 +1,25 @@
+ #firstheader{
+ 	height: 100px;
+    width: 100%;
+    background-color: powderblue;
+    border-bottom:5px solid #3f51b5;
+}
+
+
+#secondheader{
+ 	height: 50px;
+    width: 100%;
+    background-color: #c5cae9;
+}
+
+ul ,li{
+	float:left;
+	padding:0 20px 0 10px;
+	list-style:none;
+	margin-top:30px;
+}
+a{
+	margin:auto;
+	text-align: center;
+
+}

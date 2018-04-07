@@ -1,0 +1,296 @@
+hr.style1{
+	border: 1px solid #c02dcb;
+	margin-top:2%;
+	margin-bottom:3%;
+	border-width:thin;
+}
+#div {
+	text-align: center;
+	border: 1px solid #c02dcb;
+    border-style: solid;
+    border-width: medium medium medium;
+    width:40%;
+    margin: auto;
+}
+
+/*centering things for navbar */
+li#nav{
+	font-family: 'Roboto';
+	font-weight: bold;
+	color:#00bcd4;
+	font-size: 9px;
+	display:inline;
+	margin-left:4.53%;
+	/*margin-right:0.33%;*/
+}
+#menu{
+	margin-left:65%;
+}
+
+/*this is for the boxed-navigation bar*/
+ul{
+	margin-right:10.69%;
+	margin-left:0.69%;
+	/*background: #e2e1e0;*/
+  	text-align: center;
+}
+ol{
+	margin-right:4.53%;
+}
+/*this is to create a hover-line feeling under a text*/
+.menu a:hover {
+	border-bottom:3px solid #00bcd4;
+	cursor: pointer;
+}
+
+/*this is the part for material card*/
+
+body {
+  background:#fff;
+  text-align: center;
+  font-family: 'Roboto';
+}
+.card {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: 270px;
+  margin: 0.7rem;
+  position: relative;
+  width: 250px;
+}
+/*this is before hover*/
+div.card.card-0{
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift1.jpg'); 
+  background-size: cover;
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}
+div.card.card-1 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift2.jpg');
+  background-size: cover; 
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}
+div.card.card-2 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift3.jpg'); 
+  background-size: cover;
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}
+div.card.card-3 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift4.jpg'); 
+  background-size: cover;
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}
+div.card.card-4 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift5.jpg'); 
+  background-size: cover;
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}
+div.card.card-5 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift6.jpg'); 
+  background-size: cover;
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}
+div.card.card-6 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift7.jpg'); 
+  background-size: cover;
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}
+div.card.card-7 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift8.jpg'); 
+  background-size: cover;
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-8 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift9.jpg');
+  background-size: cover; 
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-9 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift10.jpg'); 
+  background-size: cover;
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-10 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift11.jpg'); 
+  background-size: cover;
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-11 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background-image:url('../../images/gift12.jpg');
+  background-size: cover; 
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}
+/*this is for the hovered card*/
+div.card.card-0:hover{
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+div.card.card-1:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-2:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-3:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-4:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-5:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-6:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-7:hover {
+ box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-8:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22); 
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-9:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}div.card.card-10:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}
+div.card.card-11:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  /*box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);*/
+}
+
+
+#footer {
+    padding: 4em 0 4em 0;
+    background-color: #536770;
+    color: rgba(255, 255, 255, 0.75);
+    background-attachment: fixed, fixed, fixed;
+    background-color:#536770 ;/*linear-gradient(45deg, #49395e, #fff 50%, #9dc66b 95%);*/
+    background-position: top left, center center, center center;
+    background-size: auto, cover, cover;
+    text-align: center;
+}
+
+.block{
+	background-color:rgba(0,0,0,0);
+	text-align: center;
+	display: inline-block;
+}
+.block>ul{
+	background-color:rgba(0,0,0,0);
+}
+
+.block>ul>li{
+	color:white;
+}
+
+#block{
+	margin: 10% 0;
+	color:white;
+	list-style:none;
+	font-size:12px;
+}
+#socialmedia,#randomone{
+	margin: 10% 0;
+	color:white;
+	list-style:none;
+	font-size:12px;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+#facebook,#twitter,#instagram{
+	list-style: none;
+	font-size:12px;
+	display:inline;
+}
+
+/*Form inside footer block list*/
+
+#button-first-form{
+	color:white;
+}
+#first-form{
+	/*text-align: center;*/
+	border: 1px solid white;
+    border-style: solid;
+    border-width: thin thin thin;
+    margin: auto;
+    background:#fff;
+    border-radius: 2px;
+}
+input#first-form{
+	width:70%;
+	color:#fff;
+	position:relative;
+	right:0px;
+}
+div.copyright{
+	padding-top:0%;
+	background-color: #536770;
+	color:#fff;
+	font-size:11px;
+	font-weight:bold;
+}
+/*Paddidng the block with respect to the parent footer block*/
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+#block-1{
+	
+}
+#block-2{
+
+}
+#block-3{
+	
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 30%;
+    background-color: #536770;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 1px solid white;
+}
+
+input[type=submit]:hover {
+    background-color: #00bcd4;
+}
+
